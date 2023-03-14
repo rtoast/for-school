@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TimeLineSerialized xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TimeLineName>www.xml</TimeLineName>
+  <MovableAnimationList>
+    <MovableAnimation>
+      <EntityGUID>a644cdce-62c9-4706-b8f2-fac04708d907</EntityGUID>
+      <IsMoveAnim>true</IsMoveAnim>
+      <IsRotateAnim>false</IsRotateAnim>
+      <TargetPosition>
+        <x>6.939744</x>
+        <y>1.49483766E-16</y>
+        <z>-6.73215</z>
+      </TargetPosition>
+      <TargetRotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </TargetRotation>
+      <Speed>3.5</Speed>
+      <Acceleration>8</Acceleration>
+      <Time>0</Time>
+      <TimeLineId>-2180</TimeLineId>
+    </MovableAnimation>
+    <MovableAnimation>
+      <EntityGUID>a644cdce-62c9-4706-b8f2-fac04708d907</EntityGUID>
+      <IsMoveAnim>false</IsMoveAnim>
+      <IsRotateAnim>true</IsRotateAnim>
+      <TargetPosition>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </TargetPosition>
+      <TargetRotation>
+        <x>0</x>
+        <y>262.672058</y>
+        <z>0</z>
+      </TargetRotation>
+      <Speed>0</Speed>
+      <Acceleration>0</Acceleration>
+      <Time>0</Time>
+      <TimeLineId>-2200</TimeLineId>
+    </MovableAnimation>
+  </MovableAnimationList>
+  <HumanInteractionList />
+  <ManifactureInteractionList />
+</TimeLineSerialized>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataScene xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SceneName>www.xml</SceneName>
+  <DataObjects>
+    <ObjectDataScene>
+      <Name>GerbeurElectrique</Name>
+      <GUID>a644cdce-62c9-4706-b8f2-fac04708d907</GUID>
+      <Type>BUILT_IN</Type>
+      <PrefabName>GerbeurElectrique</PrefabName>
+      <Position>
+        <x>4.328024</x>
+        <y>0</y>
+        <z>-9.57447052</z>
+      </Position>
+      <Rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </Rotation>
+      <Speed>100</Speed>
+      <IsColored>false</IsColored>
+      <OriginalColorsMaterial />
+      <Color>
+        <r>0</r>
+        <g>0</g>
+        <b>0</b>
+        <a>0</a>
+      </Color>
+      <Scale>
+        <x>1</x>
+        <y>1</y>
+        <z>1</z>
+      </Scale>
+    </ObjectDataScene>
+  </DataObjects>
+</DataScene>
